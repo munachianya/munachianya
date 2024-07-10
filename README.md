@@ -43,11 +43,8 @@ src="https://img.shields.io/github/followers/munachianya?logo=github&style=for-t
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=munachianya&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="munachianya's GitHub stats" /></td>
+    <td><a href="http://www.github.com/munachianya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=munachianya&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=munachianya&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" /></td>
   </tr>
 </table>
 
-<div align="center">
-<a href="http://www.github.com/munachianya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=munachianya&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
