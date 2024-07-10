@@ -1,5 +1,5 @@
 
-#Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
 I am a Computer Science student with 3 years of programming experience and 1 year of design experience. I enjoy building robust applications and crafting beautiful user interfaces. Below, you'll find more about my tech stack and some of the tools I love to use.
