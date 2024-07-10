@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/munachianya?logo=github&style=for-t
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React Native" /></a>
 </p>
 
-#### Other Languages and Tools I've Worked With
+### Tools and Technologies 
 
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/munachianya?logo=github&style=for-t
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left">
 <a href="https://www.github.com/munachianya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
