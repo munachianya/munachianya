@@ -3,15 +3,15 @@
 I'm a passionate Computer Science student with 3 years of programming experience and 1 year of design experience. I enjoy building robust applications and crafting beautiful user interfaces. Below, you'll find more about my tech stack and some of the tools I love to use.
 
 ## About Me
-- 🔭 I’m currently working on various exciting projects as part of my internship, focusing on workflow orchestration with Camunda and Apache Kafka.
+- 🔭 I’m currently working on various exciting projects as part of my internship.
 - 🌱 I’m always looking to learn new technologies and improve my skills.
 - 💬 Ask me about anything related to JavaScript, Java, React, and design principles.
 
 ## My Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
